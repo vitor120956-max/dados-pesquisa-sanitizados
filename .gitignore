@@ -1,0 +1,12 @@
+*.zip
+*.log
+.env
+.env.*
+*sessao*
+*session*
+*cookie*
+*token*
+*config_local*
+*.pem
+*.ppk
+id_*
