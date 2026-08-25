@@ -7,11 +7,11 @@ DOGE_M15_SNR48_REJEICAO_EXP_FIM_PROX_M15
   metade 1=R$0.00 | metade 2=R$-8.10 | STATUS: AGUARDAR
 
 DOGE_RSI14_M5_K3_EXP_M1
-  N=10 | W=4 L=4 T=2 | WR decisiva=50.00% | P&L virtual=R$0.00
-  metade 1=R$0.00 | metade 2=R$0.00 | STATUS: AGUARDAR
+  N=12 | W=6 L=4 T=2 | WR decisiva=60.00% | P&L virtual=R$8.20
+  metade 1=R$0.00 | metade 2=R$8.20 | STATUS: AGUARDAR
 
 ETH_M15_SNR48_REJEICAO_EXP_FIM_M15_ATUAL
   N=61 | W=37 L=24 T=0 | WR decisiva=60.66% | P&L virtual=R$31.70
   metade 1=R$22.90 | metade 2=R$8.80 | STATUS: ELEGÍVEL PARA REVISÃO
 
-Pendentes agora: 0
+Pendentes agora: 2
