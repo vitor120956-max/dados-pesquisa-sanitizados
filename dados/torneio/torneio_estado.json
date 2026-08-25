@@ -3,17 +3,10 @@
   "demo_baseline": 102,
   "criado_em": "19/08/2026 19:12:56",
   "last_ts": {
-    "XLMUSDT": 1787625300,
-    "DOGEUSDT": 1787625300,
-    "BTCUSDT": 1787625300
+    "XLMUSDT": 1787666100,
+    "DOGEUSDT": 1787666100,
+    "BTCUSDT": 1787666100
   },
-  "pendentes": {
-    "BTC_CONTROLE_RSI14_ATR02": {
-      "ativo": "BTCUSDT",
-      "ts": 1787625300,
-      "entrada": 80955.81,
-      "lado": "PUT"
-    }
-  },
+  "pendentes": {},
   "aviso": "sem sessão/credenciais"
 }
