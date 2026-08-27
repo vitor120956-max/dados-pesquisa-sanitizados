@@ -1,5 +1,5 @@
 coleta_quant_sanitizada
-gerada_em: 2026-08-25 23:35:00 -0300
+gerada_em: 2026-08-26 23:35:00 -0300
 fonte: historico_trades_*.csv + historico_renda_*.csv (allowlist)
 excluidos_por_regra: config_real.py cookies tokens chaves zips logs velas
 arquivos:
@@ -8,4 +8,4 @@ arquivos:
   - historico_trades_b3.csv | 1 linhas | sha256=4e3021400edba5b0cad91bce88b61d2b05787d75423271ce218effd1a299ae81
   - historico_trades_cripto.csv | 1 linhas | sha256=d9463ae17e61f014a89fea66819facf645eceba3e2ae1bcc5b33e4bc57b734c6
   - historico_trades_gold.csv | 1 linhas | sha256=c711fa70a456399ab4f61debae953529dc4a01bf8b60471e6bb9eccf2eccd7d1
-  - historico_trades_master_portfolio.csv | 780 linhas | sha256=216077c9d7e9487321e6eef842eb50247178ea283421235d519e0f075776fbd6
+  - historico_trades_master_portfolio.csv | 798 linhas | sha256=dfb6f539a189ddbf190f02653c381607c5fb78688df8ce38d3cda52ad7d62c25
