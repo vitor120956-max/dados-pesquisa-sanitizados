@@ -6,7 +6,7 @@ BENCHMARK — CONTA DEMO
 DEMO_AUDCHF_F_PATAMAR12
   N=44 | 19W/22L/3E | WR=46.34% | P&L=R$-24.50 | H1=R$-5.00 H2=R$-19.50 | NÃO PASSOU
 DEMO_EURCAD_V2
-  N=22 | 17W/5L/0E | WR=77.27% | P&L=R$51.50 | H1=R$30.50 H2=R$21.00 | AGUARDAR
+  N=29 | 18W/11L/0E | WR=62.07% | P&L=R$26.00 | H1=R$34.50 H2=R$-8.50 | AGUARDAR
 DEMO_XLMUSDT_F_RSI14
   N=52 | 28W/19L/5E | WR=59.57% | P&L=R$17.00 | H1=R$25.00 H2=R$-8.00 | NÃO PASSOU
 
@@ -30,26 +30,26 @@ XLM_CHAMP_RSI14_25_75
 FORWARD NOVO APÓS O CORTE
 ================================================================================================
 BTC_CONTROLE_RSI14_ATR02
-  N=76 | 39W/37L/0E | WR=51.32% | P&L=R$-25.10 | H1=R$-35.30 H2=R$10.20 | NÃO PASSOU
+  N=77 | 40W/37L/0E | WR=51.95% | P&L=R$-21.00 | H1=R$-35.30 H2=R$14.30 | NÃO PASSOU
 DOGE_CHAL_RSI7_TREND_ATR01
-  N=15 | 11W/4L/0E | WR=73.33% | P&L=R$25.10 | H1=R$10.50 H2=R$14.60 | AGUARDAR
+  N=23 | 15W/8L/0E | WR=65.22% | P&L=R$21.50 | H1=R$8.70 H2=R$12.80 | AGUARDAR
 XLM_CHAL_RSI14_22_78
-  N=23 | 9W/13L/1E | WR=40.91% | P&L=R$-29.00 | H1=R$-19.00 H2=R$-10.00 | AGUARDAR
+  N=31 | 13W/17L/1E | WR=43.33% | P&L=R$-33.00 | H1=R$-12.00 H2=R$-21.00 | NÃO PASSOU
 XLM_CHAL_RSI14_25_75_BB20
-  N=23 | 14W/9L/0E | WR=60.87% | P&L=R$11.00 | H1=R$-1.00 H2=R$12.00 | AGUARDAR
+  N=33 | 18W/15L/0E | WR=54.55% | P&L=R$-3.00 | H1=R$1.00 H2=R$-4.00 | NÃO PASSOU
 XLM_CHAL_RSI21_ATR02
-  N=21 | 10W/10L/1E | WR=50.00% | P&L=R$-10.00 | H1=R$-14.00 H2=R$4.00 | AGUARDAR
+  N=25 | 13W/11L/1E | WR=54.17% | P&L=R$-3.00 | H1=R$-6.00 H2=R$3.00 | AGUARDAR
 XLM_CHAMP_RSI14_25_75
-  N=51 | 26W/23L/2E | WR=53.06% | P&L=R$-11.00 | H1=R$-26.00 H2=R$15.00 | NÃO PASSOU
+  N=72 | 37W/32L/3E | WR=53.62% | P&L=R$-12.00 | H1=R$-26.00 H2=R$14.00 | NÃO PASSOU
 
 ================================================================================================
 FORWARD M15/M1 EXISTENTE (DOGE sem odd usa referência 1,82)
 ================================================================================================
 DOGE_M15_SNR48_REJEICAO_EXP_FIM_PROX_M15
-  N=51 | 30W/20L/1E | WR=60.00% | P&L=R$23.00 | H1=R$7.40 H2=R$15.60 | ELEGÍVEL REVISÃO
+  N=55 | 34W/20L/1E | WR=62.96% | P&L=R$39.40 | H1=R$15.60 H2=R$23.80 | ELEGÍVEL REVISÃO
 DOGE_RSI14_M5_K3_EXP_M1
-  N=19 | 8W/9L/2E | WR=47.06% | P&L=R$-12.20 | H1=R$-7.70 H2=R$-4.50 | AGUARDAR
+  N=31 | 16W/12L/3E | WR=57.14% | P&L=R$5.60 | H1=R$-10.40 H2=R$16.00 | NÃO PASSOU
 ETH_M15_SNR48_REJEICAO_EXP_FIM_M15_ATUAL
-  N=76 | 47W/29L/0E | WR=61.84% | P&L=R$47.70 | H1=R$28.40 H2=R$19.30 | ELEGÍVEL REVISÃO
+  N=82 | 51W/31L/0E | WR=62.20% | P&L=R$54.10 | H1=R$13.40 H2=R$40.70 | ELEGÍVEL REVISÃO
 
 Critério: N>=30, P&L>0 e duas metades não negativas = elegível apenas para revisão humana.
