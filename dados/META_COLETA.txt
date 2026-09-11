@@ -1,6 +1,6 @@
 Coleta sanitizada publicada manualmente pelo Termux.
-Gerada em: 08/09/2026 11:43:40 -0300
-Demo: dados_robo_para_avaliacao_20260908_114334.zip
-Forward: forward_candidatas_20260908_114337_SEM_SEGREDOS.zip
-Torneio: torneio_sombras_pos100_20260908_114338_SEM_SEGREDOS.zip
+Gerada em: 11/09/2026 09:02:48 -0300
+Demo: dados_robo_para_avaliacao_20260911_090242.zip
+Forward: forward_candidatas_20260911_090245_SEM_SEGREDOS.zip
+Torneio: torneio_sombras_pos100_20260911_090246_SEM_SEGREDOS.zip
 ZIPs não são enviados ao GitHub; somente arquivos permitidos pela lista fechada.
