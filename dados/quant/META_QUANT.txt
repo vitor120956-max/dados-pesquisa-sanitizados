@@ -1,5 +1,5 @@
 coleta_quant_sanitizada
-gerada_em: 2026-09-10 23:35:00 -0300
+gerada_em: 2026-09-11 09:17:54 -0300
 fonte: historico_trades_*.csv + historico_renda_*.csv (allowlist)
 excluidos_por_regra: config_real.py cookies tokens chaves zips logs velas
 arquivos:
