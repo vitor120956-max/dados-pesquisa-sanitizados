@@ -1,12 +1,13 @@
 coleta_quant_sanitizada
-gerada_em: 2026-09-11 23:35:00 -0300
+gerada_em: 2026-09-12 23:35:00 -0300
 fonte: historico_trades_*.csv + historico_renda_*.csv (allowlist)
 excluidos_por_regra: config_real.py cookies tokens chaves zips logs velas
 arquivos:
   - historico_renda_funding_rate.csv | 1 linhas | sha256=e8a846c19e760e5920f010e33ab1340433fbf558a8cae32db81056c95e9d6904
-  - historico_renda_real_funding.csv | 48 linhas | sha256=6804b48b42e5b8e4c72a94c0ccfa814fbed076a1b25268e924da4693c3eac510
+  - historico_renda_real_funding.csv | 51 linhas | sha256=5c19becd127a76434efa0b78b66793582f514c318f2bb9548bbaa59e46789791
   - historico_trades_b3.csv | 1 linhas | sha256=4e3021400edba5b0cad91bce88b61d2b05787d75423271ce218effd1a299ae81
   - historico_trades_cripto.csv | 1 linhas | sha256=d9463ae17e61f014a89fea66819facf645eceba3e2ae1bcc5b33e4bc57b734c6
   - historico_trades_gold.csv | 11 linhas | sha256=261cccd296d43f13808a61f9f8f7018a280fd3bacc1c1f1e24f624c6bdeb0050
-  - historico_trades_master_portfolio.csv | 1314 linhas | sha256=a8e5c402f8174827aae111f71856b7b361496c85719180bde85c9527a1c60b53
-  - historico_trades_sombra_ia.csv | 38 linhas | sha256=dbb2d5f5f761013280d833d557f791251fd216f76da6b08d96af80fafd6cc912
+  - historico_trades_master_portfolio.csv | 1343 linhas | sha256=ca1ea8a26da06c9fef7d51b686332c6433b01402a3d23c6884cd6a67e18396ed
+  - historico_trades_sombra_ia.csv | 43 linhas | sha256=0830d23bd45a68a9e60bc9899efcf58045ca3a9d04a4eb460c935d73a10ed9c4
+  - historico_trades_sombra_ia_veredito.csv | 3 linhas | sha256=48622c4a9773e8eebe981a9764317c7c46a7503265b3b590bbc5a7c561777db0
