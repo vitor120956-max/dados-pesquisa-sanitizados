@@ -30,26 +30,26 @@ XLM_CHAMP_RSI14_25_75
 FORWARD NOVO APÓS O CORTE
 ================================================================================================
 BTC_CONTROLE_RSI14_ATR02
-  N=118 | 59W/59L/0E | WR=50.00% | P&L=R$-53.10 | H1=R$-31.10 H2=R$-22.00 | NÃO PASSOU
+  N=127 | 62W/65L/0E | WR=48.82% | P&L=R$-70.80 | H1=R$-23.80 H2=R$-47.00 | NÃO PASSOU
 DOGE_CHAL_RSI7_TREND_ATR01
-  N=45 | 29W/16L/0E | WR=64.44% | P&L=R$38.90 | H1=R$17.40 H2=R$21.50 | ELEGÍVEL REVISÃO
+  N=46 | 30W/16L/0E | WR=65.22% | P&L=R$43.00 | H1=R$21.50 H2=R$21.50 | ELEGÍVEL REVISÃO
 XLM_CHAL_RSI14_22_78
-  N=64 | 29W/29L/6E | WR=50.00% | P&L=R$-29.00 | H1=R$-38.00 H2=R$9.00 | NÃO PASSOU
+  N=81 | 35W/38L/8E | WR=47.95% | P&L=R$-50.00 | H1=R$-41.00 H2=R$-9.00 | NÃO PASSOU
 XLM_CHAL_RSI14_25_75_BB20
-  N=86 | 48W/33L/5E | WR=59.26% | P&L=R$27.00 | H1=R$2.00 H2=R$25.00 | ELEGÍVEL REVISÃO
+  N=102 | 56W/40L/6E | WR=58.33% | P&L=R$24.00 | H1=R$-6.00 H2=R$30.00 | NÃO PASSOU
 XLM_CHAL_RSI21_ATR02
-  N=37 | 19W/16L/2E | WR=54.29% | P&L=R$-4.00 | H1=R$-4.00 H2=R$0.00 | NÃO PASSOU
+  N=46 | 22W/21L/3E | WR=51.16% | P&L=R$-17.00 | H1=R$-11.00 H2=R$-6.00 | NÃO PASSOU
 XLM_CHAMP_RSI14_25_75
-  N=151 | 82W/58L/11E | WR=58.57% | P&L=R$38.00 | H1=R$-9.00 H2=R$47.00 | NÃO PASSOU
+  N=179 | 94W/72L/13E | WR=56.63% | P&L=R$16.00 | H1=R$-10.00 H2=R$26.00 | NÃO PASSOU
 
 ================================================================================================
 FORWARD M15/M1 EXISTENTE (DOGE sem odd usa referência 1,82)
 ================================================================================================
 DOGE_M15_SNR48_REJEICAO_EXP_FIM_PROX_M15
-  N=121 | 74W/45L/2E | WR=62.18% | P&L=R$78.40 | H1=R$41.70 H2=R$36.70 | ELEGÍVEL REVISÃO
+  N=153 | 91W/60L/2E | WR=60.26% | P&L=R$73.10 | H1=R$66.80 H2=R$6.30 | ELEGÍVEL REVISÃO
 DOGE_RSI14_M5_K3_EXP_M1
-  N=80 | 36W/36L/8E | WR=50.00% | P&L=R$-32.40 | H1=R$-2.10 H2=R$-30.30 | NÃO PASSOU
+  N=94 | 44W/42L/8E | WR=51.16% | P&L=R$-29.60 | H1=R$-9.80 H2=R$-19.80 | NÃO PASSOU
 ETH_M15_SNR48_REJEICAO_EXP_FIM_M15_ATUAL
-  N=190 | 106W/84L/0E | WR=55.79% | P&L=R$14.60 | H1=R$43.70 H2=R$-29.10 | NÃO PASSOU
+  N=226 | 125W/101L/0E | WR=55.31% | P&L=R$7.50 | H1=R$44.70 H2=R$-37.20 | NÃO PASSOU
 
 Critério: N>=30, P&L>0 e duas metades não negativas = elegível apenas para revisão humana.

@@ -3,15 +3,15 @@ RESUMO FORWARD — EMPATE = DEVOLUÇÃO (P&L ZERO)
 ============================================================================================
 
 DOGE_M15_SNR48_REJEICAO_EXP_FIM_PROX_M15
-  N=121 | W=74 L=45 T=2 | WR decisiva=62.18% | P&L virtual=R$68.30
-  metade 1=R$31.60 | metade 2=R$36.70 | STATUS: ELEGÍVEL PARA REVISÃO
+  N=153 | W=91 L=60 T=2 | WR decisiva=60.26% | P&L virtual=R$63.00
+  metade 1=R$56.70 | metade 2=R$6.30 | STATUS: ELEGÍVEL PARA REVISÃO
 
 DOGE_RSI14_M5_K3_EXP_M1
-  N=80 | W=36 L=36 T=8 | WR decisiva=50.00% | P&L virtual=R$-28.80
-  metade 1=R$1.50 | metade 2=R$-30.30 | STATUS: NÃO PASSOU O FORWARD
+  N=94 | W=44 L=42 T=8 | WR decisiva=51.16% | P&L virtual=R$-26.00
+  metade 1=R$-6.20 | metade 2=R$-19.80 | STATUS: NÃO PASSOU O FORWARD
 
 ETH_M15_SNR48_REJEICAO_EXP_FIM_M15_ATUAL
-  N=190 | W=106 L=84 T=0 | WR decisiva=55.79% | P&L virtual=R$14.60
-  metade 1=R$43.70 | metade 2=R$-29.10 | STATUS: NÃO PASSOU O FORWARD
+  N=226 | W=125 L=101 T=0 | WR decisiva=55.31% | P&L virtual=R$7.50
+  metade 1=R$44.70 | metade 2=R$-37.20 | STATUS: NÃO PASSOU O FORWARD
 
 Pendentes agora: 0
