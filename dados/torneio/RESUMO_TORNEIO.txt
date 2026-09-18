@@ -30,23 +30,23 @@ XLM_CHAMP_RSI14_25_75
 FORWARD NOVO APÓS O CORTE
 ================================================================================================
 BTC_CONTROLE_RSI14_ATR02
-  N=127 | 62W/65L/0E | WR=48.82% | P&L=R$-70.80 | H1=R$-23.80 H2=R$-47.00 | NÃO PASSOU
+  N=129 | 64W/65L/0E | WR=49.61% | P&L=R$-62.60 | H1=R$-28.80 H2=R$-33.80 | NÃO PASSOU
 DOGE_CHAL_RSI7_TREND_ATR01
-  N=46 | 30W/16L/0E | WR=65.22% | P&L=R$43.00 | H1=R$21.50 H2=R$21.50 | ELEGÍVEL REVISÃO
+  N=55 | 37W/18L/0E | WR=67.27% | P&L=R$61.70 | H1=R$28.80 H2=R$32.90 | ELEGÍVEL REVISÃO
 XLM_CHAL_RSI14_22_78
-  N=81 | 35W/38L/8E | WR=47.95% | P&L=R$-50.00 | H1=R$-41.00 H2=R$-9.00 | NÃO PASSOU
+  N=99 | 46W/45L/8E | WR=50.55% | P&L=R$-41.00 | H1=R$-45.00 H2=R$4.00 | NÃO PASSOU
 XLM_CHAL_RSI14_25_75_BB20
-  N=102 | 56W/40L/6E | WR=58.33% | P&L=R$24.00 | H1=R$-6.00 H2=R$30.00 | NÃO PASSOU
+  N=120 | 65W/49L/6E | WR=57.02% | P&L=R$15.00 | H1=R$-10.00 H2=R$25.00 | NÃO PASSOU
 XLM_CHAL_RSI21_ATR02
-  N=46 | 22W/21L/3E | WR=51.16% | P&L=R$-17.00 | H1=R$-11.00 H2=R$-6.00 | NÃO PASSOU
+  N=58 | 30W/25L/3E | WR=54.55% | P&L=R$-5.00 | H1=R$-18.00 H2=R$13.00 | NÃO PASSOU
 XLM_CHAMP_RSI14_25_75
-  N=179 | 94W/72L/13E | WR=56.63% | P&L=R$16.00 | H1=R$-10.00 H2=R$26.00 | NÃO PASSOU
+  N=221 | 113W/93L/15E | WR=54.85% | P&L=R$-13.00 | H1=R$-6.00 H2=R$-7.00 | NÃO PASSOU
 
 ================================================================================================
 FORWARD M15/M1 EXISTENTE (DOGE sem odd usa referência 1,82)
 ================================================================================================
 DOGE_M15_SNR48_REJEICAO_EXP_FIM_PROX_M15
-  N=153 | 91W/60L/2E | WR=60.26% | P&L=R$73.10 | H1=R$66.80 H2=R$6.30 | ELEGÍVEL REVISÃO
+  N=154 | 92W/60L/2E | WR=60.53% | P&L=R$77.20 | H1=R$70.90 H2=R$6.30 | ELEGÍVEL REVISÃO
 DOGE_RSI14_M5_K3_EXP_M1
   N=94 | 44W/42L/8E | WR=51.16% | P&L=R$-29.60 | H1=R$-9.80 H2=R$-19.80 | NÃO PASSOU
 ETH_M15_SNR48_REJEICAO_EXP_FIM_M15_ATUAL
